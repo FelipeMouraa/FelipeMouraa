@@ -4,7 +4,7 @@
   <li><h4>📚 I’m currently learning Python, Java and MySql.</h4></li>
   <li><h4>🤔 I'm in search of new opportunities and challenges.</h4></li>
   <li><h4>🖥️ Systems Development Technician - ETEC Professor Camargo Aranha</h4></li>
-  <li><h4>📫 How to reach me: diegobasilio10@gmail.com</h4></li>
+  <li><h4>📫 How to reach me: felipemoura832@gmail.com</h4></li>
 </ul>
 <h3>Ferramentas e Tecnologias<h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
