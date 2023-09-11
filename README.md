@@ -1,7 +1,7 @@
 <h3>Welcome, I'm Felipe Moura 👋</h3>
 <ul>
   <li><h4>🎓 I'm currently studying Systems Analysis and Development.</h4></li>
-  <li><h4>📚 I’m currently learning Python, Java and MySql.</h4></li>
+  <li><h4>📚 I’m currently learning Python, Java, MySQL e PHP.</h4></li>
   <li><h4>🤔 I'm in search of new opportunities and challenges.</h4></li>
   <li><h4>🖥️ Systems Development Technician - ETEC Professor Camargo Aranha</h4></li>
   <li><h4>📫 How to reach me: felipemoura832@gmail.com</h4></li>
